@@ -1,6 +1,6 @@
 <?php
 
-Class Request {
+class Request {
 
     private $_controller;
 
